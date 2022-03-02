@@ -1,4 +1,4 @@
-# Vanilla Node Local REST API
+# Vanilla Node.js Local REST API
 
 > CRUD REST API using Node.js with no frameworks
 
