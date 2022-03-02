@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "john@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Chris",
+      "email": "chris@email.com"
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@email.com"
+    },
+    {
+      "id": 4,
+      "name": "Donald",
+      "email": "donald@email.com"
+    },
+    {
+      "id": 5,
+      "name": "Erick",
+      "email": "erick@email.com"
+    },
+    {
+      "id": 6,
+      "name": "Peter",
+      "email": "petern@email.com"
+    },
+    {
+      "id": 7,
+      "name": "Arthur",
+      "email": "arthur@email.com"
+    }
+  ]
+}
